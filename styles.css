@@ -68,7 +68,7 @@ main {
     text-align: center;
     color: yellow;
     padding: 3rem 0;
-    background-image: url(/inages/hero.jpg);
+    background-image: url(inages/hero.jpg);
     background-size: cover;
 }
 
